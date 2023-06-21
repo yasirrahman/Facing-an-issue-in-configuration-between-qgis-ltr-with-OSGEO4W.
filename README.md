@@ -1,2 +1,3 @@
-# Facing-an-issue-in-configuration-between-qgis-ltr-with-OSGEO4W.
-Hi, I am configuring lizmap on window so i am facing an issue in connecting qgis with osgeo4w its shows that some .dll files are missing. I almost install everypackage from osgeo4w but not work may anyone help me that will be great.
+Hello there! I am currently experiencing an issue with the configuration between QGIS LTR and OSGEO4W. Specifically, I am attempting to configure Lizmap on Windows. However, I am encountering difficulties connecting QGIS with OSGEO4W, as it indicates that certain .dll files are missing. Despite installing every package from OSGEO4W, the issue persists. I would greatly appreciate any assistance with resolving this problem. Thank you!
+![qgis2](https://github.com/yasirrahman/Facing-an-issue-in-configuration-between-qgis-ltr-with-OSGEO4W./assets/29072896/70a67ff7-b1e7-4878-bafa-e312c69c71d1)
+![qgis](https://github.com/yasirrahman/Facing-an-issue-in-configuration-between-qgis-ltr-with-OSGEO4W./assets/29072896/e32a6711-10a3-4d1a-951f-c1c6a0894056)
